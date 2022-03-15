@@ -84,13 +84,32 @@ Cadena: El lenguaje de Python es multiplataforma
 l lngj d Pythn s mltpltfrm
 
 ### Ejercicio 4
+[Volver arriba ↟](#contenido)
+
 ### Ejercicio 5
+[Volver arriba ↟](#contenido)
+
 ### Ejercicio 6
+[Volver arriba ↟](#contenido)
+
 ### Ejercicio 7
+[Volver arriba ↟](#contenido)
+
 ### Ejercicio 8
+[Volver arriba ↟](#contenido)
+
 ### Ejercicio 9
+[Volver arriba ↟](#contenido)
+
 ### Ejercicio 10
+[Volver arriba ↟](#contenido)
+
 ### Ejercicio 11
+[Volver arriba ↟](#contenido)
+
 ### Ejercicio 12
+[Volver arriba ↟](#contenido)
+
 ### Ejercicio 13
+[Volver arriba ↟](#contenido)
 
