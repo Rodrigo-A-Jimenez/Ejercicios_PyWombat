@@ -22,8 +22,67 @@ Correo: jimenezhuancarodrigo en gmail punto com
 
 
 ### Ejercicio 1
-### Ejercicio 2
+[Volver arriba ↟](#contenido)
+
+#### Par mayor en una lista
+
+Desarrolla un programa en Python que nos permita conocer el número par más alto de una lista.
+
+- El usuario podrá crear una lista de longitud n.
+- El usuario podrá definir la longitud y cada uno de los elementos dentro de la lista.
+- Todo los elementos dentro de la lista serán números enteros.
+- El programa deberá mostrar en consola el número par más grande dentro de la lista.
+- En caso no existan números pares el programa no deberá imprimir nada.
+
+
+### Ejercicio 2 
+[Volver arriba ↟](#contenido)
+
+#### Valores evaluados como falsos en Python
+
+Diga de los siguientes valores, cuales son evaluados como falsos en Python. Argumente su respuesta imprimiendo en consola los valores, demostrando que éstos son falsos.
+
+**Pista**
+Son 5 opciones
+<ul>
+<li>0</li>
+<li>""</li>
+<li>'False'</li>
+<li>"0"</li>
+<li>[ ]</li>
+<li>False</li>
+<li>None</li>
+</ul>
+
 ### Ejercicio 3
+[Volver arriba ↟](#contenido)
+
+#### Elimina todas las vocales
+
+El usuario desea eliminar todas las vocales de la cadena de caracteres que introduce en consola. En consecuencia debe crear la logia adecuada para imprimir la misma sentencia pero sin vocales.
+
+**Detalles:**
+
+Tenga en cuenta las vocales en mayúscula.
+
+**Ejemplo:**
+
+**Entrada:**
+
+Cadena: Me gusta estudiar en pywombat.com
+
+**Salida:**
+
+M gst stdr n pywmbt.cm
+
+**Entrada:**
+
+Cadena: El lenguaje de Python es multiplataforma
+
+**Salida:**
+
+l lngj d Pythn s mltpltfrm
+
 ### Ejercicio 4
 ### Ejercicio 5
 ### Ejercicio 6
